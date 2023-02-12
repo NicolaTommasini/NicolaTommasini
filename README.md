@@ -1,5 +1,5 @@
 <h1 align="left">Hi :telescope:</h1>
-<h3 align="left">I'm Nicola, mathematical engineer with multiple passions from physics to finance. I try to connect the world of mathematics with computer science </h3>
+<h3 align="left">I'm Nicola, mathematical engineer with multiple passions from physics to finance. I'm trying to connect the world of mathematics with computer science </h3>
 
 - 👨‍💻 All of my projects are available at: [TBD](TBD)
 
